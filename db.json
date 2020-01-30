@@ -1,0 +1,250 @@
+{
+  "siswa": [
+    {
+      "id": 1,
+      "nisn": 20175520017,
+      "nama": "mmmmm",
+      "tgl_lahir": "10 Januari 2001",
+      "kelas": "A1"
+    },
+    {
+      "id": 2,
+      "nisn": 20175520021,
+      "nama": "Michael Anggriawan",
+      "tgl_lahir": "30 September 2019",
+      "kelas": "A1"
+    },
+    {
+      "id": 3,
+      "nisn": "20175520020",
+      "nama": "Katak Berjalan",
+      "tgl_lahir": "24 September 2002",
+      "kelas": "A1"
+    },
+    {
+      "id": 4,
+      "nisn": "20175520018",
+      "nama": "Ayam Goreng",
+      "tgl_lahir": "17 Juli 1999",
+      "kelas": "A2"
+    },
+    {
+      "id": 5,
+      "nisn": "20175520017",
+      "nama": "Hatake Kakashi",
+      "tgl_lahir": "10 September 1993",
+      "kelas": "A2"
+    },
+    {
+      "id": 6,
+      "nisn": "20175520023",
+      "nama": "aaaaaaa",
+      "tgl_lahir": "26 September 2019",
+      "kelas": "A2"
+    },
+    {
+      "id": 7,
+      "nisn": "201899123123",
+      "nama": "asdasd",
+      "tgl_lahir": "18 Agustus 2014",
+      "kelas": "A2"
+    },
+    {
+      "id": 8,
+      "nisn": "20175520022",
+      "nama": "Michael Anggriawan",
+      "tgl_lahir": "18 Agustus 2014",
+      "kelas": "A1"
+    },
+    {
+      "id": 9,
+      "nisn": "20195520033",
+      "nama": "Alicia Amanda",
+      "tgl_lahir": "18 Agustus 2014",
+      "kelas": "A2"
+    },
+    {
+      "id": 10,
+      "nisn": "20187722333",
+      "nama": "Michael",
+      "tgl_lahir": "18 Agustus 2014",
+      "kelas": "A1"
+    },
+    {
+      "id": 11,
+      "nisn": 20176682200,
+      "nama": "aaaa",
+      "tgl_lahir": "20 Oktober 2019",
+      "kelas": "A1"
+    },
+    {
+      "id": 12,
+      "nisn": "20175520022",
+      "nama": "asdads",
+      "tgl_lahir": "18 Agustus 2014",
+      "kelas": "A1"
+    }
+  ],
+  "katalog_buku": [
+    {
+      "id": 1,
+      "judul": "Persaudaraan Indonesia Ku",
+      "pengarang": "Wahyono Abdul Ginatur",
+      "penerbit": "Michael",
+      "jumlah_buku": "1000"
+    },
+    {
+      "id": 2,
+      "judul": "Persaudaraan Agama-Agama",
+      "pengarang": "Wahyono Abdul Ginatur",
+      "penerbit": "ajapssssss",
+      "jumlah_buku": "100"
+    },
+    {
+      "id": 3,
+      "judul": "Gerbang Agama-Agama Nusantara",
+      "pengarang": "Rusmin Tuminggorrrrrrrrrrrrrrrrrrr",
+      "penerbit": "Komunitas Bambu",
+      "jumlah_buku": 4
+    },
+    {
+      "id": 4,
+      "judul": "Kamus Bahasa Gila",
+      "pengarang": "Hhaaps",
+      "penerbit": "ahsdjahd",
+      "jumlah_buku": 3
+    },
+    {
+      "id": "5",
+      "judul": "Si Ujang Main Ke Taman",
+      "pengarang": "Otan",
+      "penerbit": "Titan Ilmu",
+      "jumlah_buku": 2
+    },
+    {
+      "id": 6,
+      "judul": "Gerbang pelarian-pelarian nusantara",
+      "pengarang": "Michael Anggriawan",
+      "penerbit": "Anggriawan Michael",
+      "jumlah_buku": "2"
+    },
+    {
+      "id": 7,
+      "judul": "asda",
+      "pengarang": "asdad",
+      "penerbit": "asdad",
+      "jumlah_buku": "12"
+    },
+    {
+      "id": 8,
+      "judul": "asdad",
+      "pengarang": "asdad",
+      "penerbit": "asdasdasdad",
+      "jumlah_buku": "300"
+    },
+    {
+      "id": 9,
+      "judul": "asdasdas",
+      "pengarang": "asdasdaa",
+      "penerbit": "asdasdasd",
+      "jumlah_buku": "10"
+    },
+    {
+      "id": 10,
+      "judul": "asdasdas",
+      "pengarang": "asdasdaa",
+      "penerbit": "asdasdasd",
+      "jumlah_buku": "10"
+    },
+    {
+      "id": 11,
+      "judul": "asdasdas",
+      "pengarang": "asdasdaa",
+      "penerbit": "asdasdasd",
+      "jumlah_buku": "10"
+    }
+  ],
+  "data_peminjaman": [
+    {
+      "no_pinjam": "TP0001",
+      "judul": "Otan Pergi Ke pasar",
+      "nama_siswa": "Otan",
+      "tgl_pinjam": "27-09-2018",
+      "tgl_kembali": "28-09-2018",
+      "terlambat": "0 hari"
+    },
+    {
+      "no_pinjam": "TP0002",
+      "judul": "Otan Pergi Ke pasar",
+      "nama_siswa": "Otan",
+      "tgl_pinjam": "27-09-2018",
+      "tgl_kembali": "28-09-2018",
+      "terlambat": "0 hari"
+    },
+    {
+      "no_pinjam": "TP0003",
+      "judul": "Otan Pergi Ke pasar",
+      "nama_siswa": "Otan",
+      "tgl_pinjam": "27-09-2018",
+      "tgl_kembali": "28-09-2018",
+      "terlambat": "0 hari"
+    },
+    {
+      "no_pinjam": "TP0004",
+      "judul": "Otan Pergi Ke pasar",
+      "nama_siswa": "Otan",
+      "tgl_pinjam": "27-09-2018",
+      "tgl_kembali": "28-09-2018",
+      "terlambat": "0 hari"
+    },
+    {
+      "no_pinjam": "TP0005",
+      "judul": "Otan Pergi Ke pasar",
+      "nama_siswa": "Otan",
+      "tgl_pinjam": "27-09-2018",
+      "tgl_kembali": "28-09-2018",
+      "terlambat": "0 hari"
+    },
+    {
+      "no_pinjam": "TP0006",
+      "judul": "Otan Pergi Ke pasar",
+      "nama_siswa": "Otan",
+      "tgl_pinjam": "27-09-2018",
+      "tgl_kembali": "28-09-2018",
+      "terlambat": "0 hari"
+    },
+    {
+      "no_pinjam": "TP0007",
+      "judul": "Otan Pergi Ke pasar",
+      "nama_siswa": "Otun",
+      "tgl_pinjam": "27-09-2018",
+      "tgl_kembali": "28-09-2018",
+      "terlambat": "0 hari"
+    },
+    {
+      "no_pinjam": "TP0008",
+      "judul": "Otan Pergi Ke pasar",
+      "nama_siswa": "Otan",
+      "tgl_pinjam": "27-09-2018",
+      "tgl_kembali": "28-09-2018",
+      "terlambat": "0 hari"
+    },
+    {
+      "no_pinjam": "TP0008",
+      "judul": "Hahahahaha Hoho",
+      "nama_siswa": "Otan",
+      "tgl_pinjam": "27-09-2018",
+      "tgl_kembali": "28-09-2018",
+      "terlambat": "0 hari"
+    },
+    {
+      "id": "768e597f-7132-431d-8fee-f5b15b20eb6a",
+      "no_pinjam": "TP00013",
+      "judul": "aaaaa",
+      "nama_siswa": "ssssss",
+      "tgl_pinjam": "18 Agt 2014",
+      "tgl_kembali": "18 Agt 2014",
+      "terlambat": "0 hari"
+    }
+  ]
+}
